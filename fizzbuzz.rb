@@ -8,5 +8,5 @@ def fizzbuzz(num)
   else
     puts "FizzBuzz"
   end
-end    
+end
   
